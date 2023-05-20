@@ -1,4 +1,4 @@
 # shiny-fortnight
-This is an open source project for application of cycloid needle reducer. The target is of relativly small capacity application.
-It is possible to print all the parts of the Cycoid needle reducer by 3D Printer.Of course,the low surface accracy quality will affect the rotating stability somehow.In term of durability, prediction method will be given in the following documents.
-Geoetry model and 2D drawing both will be built via FreeCAD, to provide input for 3D print.Metal piece will have much better durability performance. The only shortage is expensive and heavier.
+This is an open source project for application of cycloid needle reducer. The target is of relatively small capacity application.
+It is possible to print all the parts of the Cycloid needle reducer by 3D Printer.Of course,the low surface accracy quality will affect the rotating stability somehow.No micro geometry is available and practical in print procedure. In term of durability, prediction method will be given in the following documents.
+Both geoetry model and 2D drawing will be built via FreeCAD, to provide input for 3D print process.Metal piece will have much better durability performance if applying grinding method.  The shortage of high accuracy parts are heavier and more costy than affordable.The advantage is of high transmission accuracy with much smaller clearance being applied.
